@@ -5,3 +5,5 @@ Our people our responsbility in Meet-app we breath for the benefit of all
 Working on a perfect mixture of communittee to work as one
 # Meet and Greet 
 community voices in one place
+# Location aproval 
+community voices in one place
