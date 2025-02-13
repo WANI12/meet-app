@@ -22,4 +22,7 @@ Communitee engagement
 #programming languages
 - Python
 - Django frameworks.
+- Mysql
+- Desktop
+- 
   
