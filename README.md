@@ -18,11 +18,7 @@ working with the best practitioners in the field.
 Best for community enagegements.
  
 
-#programming languages
-- Python
-- Django frameworks.
-- Mysql
-- Desktop
+ 
 
 
 #prototype 
