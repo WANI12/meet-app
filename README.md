@@ -15,7 +15,7 @@ Engage with community for a better community.
 #side effect
 coummunity enagement platform
 working with the best practitioners in the field.
-Best for community enagegements.
+ 
  
 
  
