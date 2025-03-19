@@ -11,8 +11,7 @@ community voices in one place
 # Working with people on community solutions
 Building solution for local problems in SOuth Sudan
 # community 
-Engage with community for a better community.
-#side effect
+ 
  
  
 
