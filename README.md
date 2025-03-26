@@ -7,8 +7,7 @@ Working on a perfect mixture of communittee to work as one
 community voices in one place
 # Location aproval 
 community voices in one place
-
-# Working with people on community solutions
+ 
  
  
  
