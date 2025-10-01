@@ -1,5 +1,6 @@
 #Meetup
-COmmunity enagement system 
+Community engagement system 
 Building a community of help
-Working with epec system
+Working with the epec system
 # Community of Understanding.
+community rest.
