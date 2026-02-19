@@ -11,3 +11,4 @@ Setup
 
 All for all
 
+Meet a community engagement system
