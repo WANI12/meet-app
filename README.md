@@ -39,13 +39,7 @@ All for all
 
 Meet a community engagement system
 
-
-# Community of Understanding.
-community rest.
-Community at it
-System Development
-All building 
-Setup 
+ 
 
 All for all
 
