@@ -34,10 +34,7 @@ Community at it
 System Development
 All building 
 Setup 
-
-All for all
-
-Meet a community engagement system
+ 
 
  
 
