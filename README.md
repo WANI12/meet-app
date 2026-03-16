@@ -24,13 +24,7 @@ System Development
 All building 
 Setup 
 
-All for all
-
  
-
- 
-
-All for all
 
 Meet a community engagement system
 
