@@ -21,9 +21,6 @@ Meet a community engagement system
 community rest.
 Community at it
 System Development
-All building 
-Setup 
-
  
 
 Meet a community engagement system
