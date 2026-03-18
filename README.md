@@ -22,8 +22,5 @@ community rest.
 Community at it
 System Development
  
-
-Meet a community engagement system
-
-
+ 
 ALl for all
