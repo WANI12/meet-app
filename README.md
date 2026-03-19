@@ -14,9 +14,7 @@ All for all
 Meet a community engagement system
 All for all
 
-Meet a community engagement system
-
-
+ 
 # Community of Understanding.
 community rest.
 Community at it
