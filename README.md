@@ -9,10 +9,7 @@ System Development
 All building 
 Setup 
 
-All for all
-
-Meet a community engagement system
-All for all
+ 
 
  
 # Community of Understanding.
