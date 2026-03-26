@@ -6,9 +6,7 @@ Working with the epec system
 community rest.
 Community at it
 System Development
-All building 
-Setup 
-
+ 
  
 
  
