@@ -9,7 +9,4 @@ Community at it
 # Community of Understanding.
 community rest.
 Community at it
-System Development
  
- 
-ALl for all
