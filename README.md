@@ -1,14 +1,30 @@
-# meet-app
-Social interative system for share new ideas in south sudan 
-working for a good cause
-Our people our responsbility in Meet-app we breath for the benefit of all 
-Working on a perfect mixture of communittee to work as one
-# Meet and Greet 
-community voices in one place
-# Location aproval 
-community voices in one place
-
-# Working with people on community solutions
-Building solution for local problems in SOuth Sudan
-# community 
-Engage with community for a better community.
+#Meetup
+Community engagement system 
+Building a community of help
+Working with the epec system
+# Community of Understanding.
+community rest.
+Community at it
+ 
+# Community of Understanding.
+community rest.
+Community at it
+ 
+# Community of Understanding.
+community rest.
+Community at it
+# Community of Understanding.
+community rest.
+Community at it
+# Community of Understanding.
+community rest.
+Community at it
+# Community of Understanding.
+community rest.
+Community at it
+# Community of Understanding.
+community rest.
+Community at it
+# Community of Understanding.
+community rest.
+Community at it
