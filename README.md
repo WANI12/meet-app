@@ -17,7 +17,5 @@ Community at it
 # Community of Understanding.
 community rest.
 Community at it
-# Community of Understanding.
-community rest.
-Community at it
+ 
  
